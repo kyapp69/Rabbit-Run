@@ -7,6 +7,7 @@ reated by https://www.gitignore.io/api/unity
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+/Assets/NGUI
 
 # Visual Studio 2015 cache directory
 /.vs/
